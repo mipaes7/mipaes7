@@ -24,9 +24,7 @@
 ### 🏅 Codewars Badge
 
 <div align="center">
-  <a href="https://www.codewars.com/users/mipaes7">
     <img src="https://www.codewars.com/users/mipaes7/badges/large" alt="Codewars Badge"/>
-  </a>
 </div>
 
 ---
