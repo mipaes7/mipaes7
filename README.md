@@ -23,9 +23,7 @@
 
 ### 🏅 Codewars Badge
 
-<div align="center">
-    <img src="https://www.codewars.com/users/mipaes7/badges/large" alt="Codewars Badge"/>
-</div>
+![Codewars Badge](https://www.codewars.com/users/mipaes7/badges/large)
 
 ---
 
