@@ -32,8 +32,11 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipaes7&hide_progress=true)
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipaes7&hide_progress=true)
+  
+</div>
 
 ---
 
